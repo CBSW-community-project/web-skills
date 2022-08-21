@@ -1,5 +1,5 @@
 export const fundamentalsCollection = {
-	name: "Frontend-123",
+	name: "test",
 	areas: [
 		{
 			name: "HTML",
